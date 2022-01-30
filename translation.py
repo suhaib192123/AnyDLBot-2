@@ -1,8 +1,8 @@
 class Translation(object):
-    START_TEXT = """Hey! This is a simple Telegram All-In-One Bot that has so many function. Click /help button to Know How To Use Me.\n Made with ❤ By @TeleRoidGroup"""
-    RENAME_403_ERR = "<b>Sorry. You Are Not Permitted To Rename This File.\nAsk In [Support Group](https://t.me/TeleRoid14)</b>"
+    START_TEXT = """Hey! This is a simple Telegram All-In-One Bot that has so many function. Click /help button to Know How To Use Me.\n Made with ❤ By @The_dsr"""
+    RENAME_403_ERR = "<b>Sorry. You Are Not Permitted To Rename This File.\nAsk In [Support Group](https://t.me/Dsrs_Group)</b>"
     ABS_TEXT = " <b>Please Don't Be Selfish.</b>"
-    UPGRADE_TEXT = "<b>This Bot Is Free To Use If U R My  Friend......\n\n@TheTeleRoid</b>"
+    UPGRADE_TEXT = "<b>This Bot Is Free To Use If U R My  Friend......\n\n@The_dsr</b>"
     FORMAT_SELECTION = "<b>Select The Desired Format:</b> "
     SET_CUSTOM_USERNAME_PASSWORD = """<b>If You Want To Download Premium Videos, Provide In The Following Format:
 URL | filename | username | password</b>"""
@@ -19,9 +19,9 @@ URL | filename | username | password</b>"""
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ <b>Custom thumbnail cleared succesfully."
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "✅ Media Cleared Succesfully.</b>"
     SAVED_RECVD_DOC_FILE = "<b>Document Downloaded Successfully.</b>"
-    CUSTOM_CAPTION_UL_FILE = " <b>Bot Created By \n   👉**@TheTeleRoid**</b>"
+    CUSTOM_CAPTION_UL_FILE = " <b>Bot Created By \n   👉**@The_dsr**</b>"
     NO_CUSTOM_THUMB_NAIL_FOUND = "<b>No Custom ThumbNail Found .</b>"
-    NO_VOID_FORMAT_FOUND = "Can You Check The Url? <b>I Am Unable To Detect Video Format From UrL.</b> If You Think This Could Be A Bug Please Report On https://t.me/TeleRoid14"
+    NO_VOID_FORMAT_FOUND = "Can You Check The Url? <b>I Am Unable To Detect Video Format From UrL.</b> If You Think This Could Be A Bug Please Report On https://t.me/Dsrs_Group"
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     CURENT_PLAN_DETAILS = """Current plan details
 -----------------------------
@@ -31,7 +31,7 @@ URL | filename | username | password</b>"""
 
 🚸Expires on: 10/12/2021
 
-😎If You need Private Bot Please Ch3ck @PayForBotz.
+😎If You need Private Bot Please Ch3ck @DSRS_Contactbot.
 -----------------------------"""
     HELP_USER = """<b>There Are Multiple Things I Can Do:</b>\n\n <b>All Supported Video Formats of [YTDL](https://rg3.github.io/youtube-dl/supportedsites.html)</b>
 
@@ -46,13 +46,13 @@ URL | filename | username | password</b>"""
 
 Send /me To Know Your Current Plan Details"""
     REPLY_TO_DOC_GET_LINK = "<b>Reply to a Telegram media to get High Speed Direct Download Link.</b>"
-    REPLY_TO_DOC_FOR_C2V = "<b>Reply to a Telegram Media To Convert.\n@TheTeleRoid</b>"
-    REPLY_TO_DOC_FOR_SCSS = "<b>Reply to a Telegram Media To Get Screenshots.\n@TheTeleRoid</b>"
+    REPLY_TO_DOC_FOR_C2V = "<b>Reply to a Telegram Media To Convert.\n@kashir_bots</b>"
+    REPLY_TO_DOC_FOR_SCSS = "<b>Reply to a Telegram Media To Get Screenshots.\n@kashir_bots</b>"
     SOURCE = """<b>Hello! You Want to Know More About Me</b>
 
-<b>○ My Name : <i>TeleRoid AnyDLBot</i></b>
+<b>○ My Name : <i>KOSHUR AnyDLBot</i></b>
 
-<b>○ Creator : <a href='https://telegram.dog/TheTeleRoid'>This Person</a></b>
+<b>○ Creator : <a href='https://t.me/The_dsr'>This Person</a></b>
 
 <b>○ Credits : Everyone In This Journey</b>
 
@@ -62,7 +62,7 @@ Send /me To Know Your Current Plan Details"""
 
 <b>○ Cloned From : AnyDLBot [Spechide]</b>
 
-<b>○ Source Code :  <a href="https://github.com/PredatorHackerzZ/AnyDLBot-2">𝗖𝗹𝗶𝗰𝗸 𝗛𝗲𝗿𝗲</a></b>
+<b>○ MORE :  <a href="https://t.me/kashir_bots">𝗖𝗹𝗶𝗰𝗸 𝗛𝗲𝗿𝗲</a></b>
 
 <b>○ Server : <a href='https.heroku.com'>Heroku</a></b>
 
