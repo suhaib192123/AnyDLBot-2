@@ -57,8 +57,8 @@ async def start(bot, update):
     await bot.send_message(
         chat_id=update.chat.id,
         text=Translation.START_TEXT,
-        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="⭕️ Channel ⭕️", url="https://t.me/TeleRoidGroup")], [InlineKeyboardButton(text="🛑 Support 🛑", url="https://t.me/TeleRoid14"),
-                                                    InlineKeyboardButton(text="👮 Developer", url="https://t.me/TheTeleRoid")]]),
+        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="⭕️ Channel ⭕️", url="kashir_bots")], [InlineKeyboardButton(text="🛑 Support 🛑", url="https://t.me/Dsrs_Group"),
+                                                    InlineKeyboardButton(text="👮 Developer", url="https://t.me/The_dsr")]]),
     )
 
 @pyrogram.Client.on_message(pyrogram.filters.command(["upgrade"]))
